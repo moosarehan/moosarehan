@@ -6,11 +6,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moosarehan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/moosarehan)
 
-- 🌱 I'm currently learning **Edge AI, LLM Optimization, and Production-Grade ML Systems**
-- 🔭 I'm working on **MicCheck AI — a Multimodal RAG Content Intelligence Engine**
-- 🧠 Experienced in **Data Structures & Algorithms, Design Patterns, Clean Architecture**
-- 📄 Published research replication: **BioPredict-ML-Optimization** — improving a PLOS ONE paper using SMOTE, Random Forest & K-Fold CV
-- 💬 Ask me about **Python, Java, C++, LangChain, PyTorch, RAG Pipelines**
+Software Engineering undergraduate with hands-on experience building software solutions using clean architecture, design patterns, and industry-standard engineering practices. Proficient in applying data structures and algorithms to analyse and solve complex, critical-thinking problems with efficiency and precision. Committed to writing maintainable, well-structured code that adheres to professional development standards. Eager to continuously learn and grow, embracing new technologies and methodologies every day to deliver impactful and reliable software.
+
 - 📫 Reach me at **moosarehan4@gmail.com**
 
 ---
