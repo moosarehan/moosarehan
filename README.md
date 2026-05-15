@@ -44,25 +44,5 @@
 
 - **[BioPredict-ML-Optimization](https://github.com/moosarehan/BioPredict-ML-Optimization)** — Replicated and improved a PLOS ONE research paper using SMOTE, Random Forest & Stratified K-Fold CV. Achieved 0% → significant recall & F1-score improvement.
 - **[Arabic-Prose-Management-System](https://github.com/moosarehan/Arabic-Prose-Management-System)** — Java + MySQL system for Arabic text analysis with Stemming, Lemmatization, Root Extraction & Trigram Similarity Search.
-- **MicCheck AI** *(Final Year Project)* — Enterprise-grade Multimodal RAG pipeline for automated audio/video content moderation using Transformers & ChromaDB.
-- **Med-RAG** — Privacy-first clinical assistant with quantized Mistral-7B (4-bit GGUF) for offline, edge-optimized inference.
 
 ---
-
-### 🎯 Interests:
-
-- Edge AI & On-Device Machine Learning
-- LLM Pipelines & Retrieval-Augmented Generation
-- Clean Architecture & Design Patterns
-- Open Source Contribution
-- Competitive Programming
-
----
-
-### 📊 GitHub Stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=moosarehan&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosarehan&show_icons=true&locale=en)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moosarehan)](https://git.io/streak-stats)
