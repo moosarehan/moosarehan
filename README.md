@@ -1,14 +1,13 @@
 # Hi 👋, I'm Musa Rehan
 
-### A passionate Software Engineering undergrad from FAST-NUCES
+### A passionate undergrad from FAST-NUCES
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb490461a90606d6b540c14b2.gif">
+<img align="right" alt="Coding" width="400" src="coding.png">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moosarehan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/moosarehan)
 
 Software Engineering undergraduate with hands-on experience building software solutions using clean architecture, design patterns, and industry-standard engineering practices. Proficient in applying data structures and algorithms to analyse and solve complex, critical-thinking problems with efficiency and precision. Committed to writing maintainable, well-structured code that adheres to professional development standards. Eager to continuously learn and grow, embracing new technologies and methodologies every day to deliver impactful and reliable software.
 
-- 📫 Reach me at **moosarehan4@gmail.com**
 
 ---
 
@@ -20,6 +19,9 @@ Software Engineering undergraduate with hands-on experience building software so
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/moosarehan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:moosarehan4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="30"/>
   </a>
 </p>
 
