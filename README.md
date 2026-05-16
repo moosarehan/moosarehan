@@ -21,7 +21,7 @@ Software Engineering undergraduate with hands-on experience building software so
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:moosarehan4@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="30"/>
+    <img src="mail_icon.svg" alt="Email" height="30" width="30"/>
   </a>
 </p>
 
