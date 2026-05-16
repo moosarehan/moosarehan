@@ -14,18 +14,16 @@ Software Engineering undergraduate with hands-on experience building software so
 ### 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/moosarehan" target="_blank">
+  <a href="https://www.linkedin.com/in/moosa-rehan-34993b391/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/moosarehan" target="_blank">
+  <a href="https://leetcode.com/u/muhmmad_musa/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:moosarehan4@gmail.com" target="_blank">
     <img src="mail_icon.svg" alt="Email" height="30" width="30"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools:
 
