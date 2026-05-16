@@ -2,7 +2,7 @@
 
 ### A passionate undergrad from FAST-NUCES
 
-<img align="right" alt="Coding" width="400" src="coding.png">
+<img align="right" alt="Coding" width="400" src="coding.svg">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moosarehan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/moosarehan)
 
