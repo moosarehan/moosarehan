@@ -41,7 +41,25 @@ Software Engineering undergraduate with hands-on experience building software so
 
 ### 📌 Featured Projects:
 
-- **[BioPredict-ML-Optimization](https://github.com/moosarehan/BioPredict-ML-Optimization)** — Replicated and improved a PLOS ONE research paper using SMOTE, Random Forest & Stratified K-Fold CV. Achieved 0% → significant recall & F1-score improvement.
-- **[Arabic-Prose-Management-System](https://github.com/moosarehan/Arabic-Prose-Management-System)** — Java + MySQL system for Arabic text analysis with Stemming, Lemmatization, Root Extraction & Trigram Similarity Search.
 
+
+- **[BioPredict-ML-Optimization](https://github.com/moosarehan/BioPredict-ML-Optimization)** — A Statistical Project Aimed to Improve the Research Paper
+  - Replicated & analysed the original paper: *Analysis of Categorical Data from Biological Experiments with Logistic Regression and CMH Tests*; identified 0% recall on minority classes due to severe class imbalance and absent cross-validation.
+  - Improved methodology by applying SMOTE for class balancing, Random Forest as the classifier, and stratified k-fold cross-validation for robust, unbiased evaluation.
+  - Achieved measurably improved recall and F1-score across all classes over the original paper's baseline.
+
+- **[Arabic-Prose-Management-System](https://github.com/moosarehan/Arabic-Prose-Management-System)** — Java Based Software
+  - Developed a Java-based text analysis system integrated with MySQL to manage and process large volumes of Arabic prose.
+  - Built core NLP capabilities including Stemming, Lemmatization, and Root Extraction for structured linguistic analysis.
+  - Implemented Trigram Similarity Search to identify and match linguistic patterns across the dataset.
+
+- **[NYC-Taxi-Congestion-Toll-Analytics](https://github.com/moosarehan/NYC-Taxi-Congestion-Toll-Analytics)** — Data Engineering Project
+  - Developed a PySpark pipeline to ingest and analyse millions of NYC taxi records on Manhattan's congestion toll, enabling large-scale transport data processing.
+  - Built custom anomaly filters to flag fraudulent trips and merged weather data to study passenger demand patterns across varying environmental conditions.
+  - Created a Streamlit dashboard mapping driver surcharge compliance, traffic speeds, and revenue leakage.
+
+- **[Smart-City-Environmental-Intelligence-Engine](https://github.com/moosarehan/Smart-City-Environmental-Intelligence-Engine)** — Data Engineering / Visualization Project
+  - Aggregated 2025 environmental big data across 99 urban air-quality stations into a scalable pipeline, enabling real-time city-wide pollution monitoring and analysis.
+  - Applied PCA-based dimensionality reduction and dynamic temporal heatmaps to surface pollution patterns; built extreme hazard predictive models for proactive environmental risk assessment.
+  - Designed an interactive dashboard with population density bubble mapping, providing actionable spatial insights for smart-city urban planning and public health response.
 ---
