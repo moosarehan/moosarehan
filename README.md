@@ -53,13 +53,12 @@ Software Engineering undergraduate with hands-on experience building software so
   - Built core NLP capabilities including Stemming, Lemmatization, and Root Extraction for structured linguistic analysis.
   - Implemented Trigram Similarity Search to identify and match linguistic patterns across the dataset.
 
-- **[NYC-Taxi-Congestion-Toll-Analytics](https://github.com/moosarehan/NYC-Taxi-Congestion-Toll-Analytics)** — Data Engineering Project
+-- **[nyc-congestion-pricing-audit](https://github.com/moosarehan/nyc-congestion-pricing-audit)** — Data Engineering Project
   - Developed a PySpark pipeline to ingest and analyse millions of NYC taxi records on Manhattan's congestion toll, enabling large-scale transport data processing.
   - Built custom anomaly filters to flag fraudulent trips and merged weather data to study passenger demand patterns across varying environmental conditions.
   - Created a Streamlit dashboard mapping driver surcharge compliance, traffic speeds, and revenue leakage.
 
-- **[Smart-City-Environmental-Intelligence-Engine](https://github.com/moosarehan/Smart-City-Environmental-Intelligence-Engine)** — Data Engineering / Visualization Project
+- **[EcoPulse-Analytics](https://github.com/moosarehan/EcoPulse-Analytics)** — Data Engineering / Visualization Project
   - Aggregated 2025 environmental big data across 99 urban air-quality stations into a scalable pipeline, enabling real-time city-wide pollution monitoring and analysis.
   - Applied PCA-based dimensionality reduction and dynamic temporal heatmaps to surface pollution patterns; built extreme hazard predictive models for proactive environmental risk assessment.
   - Designed an interactive dashboard with population density bubble mapping, providing actionable spatial insights for smart-city urban planning and public health response.
----
