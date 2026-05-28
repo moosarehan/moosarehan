@@ -22,6 +22,9 @@ Software Engineering undergraduate with hands-on experience building software so
   </a>&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&to=moosarehan4@gmail.com" target="_blank">
     <img src="mail_icon.svg" alt="Email" height="30" width="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/musa_rehan633/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"/>
   </a>
 </p>
 
