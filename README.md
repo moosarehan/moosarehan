@@ -64,4 +64,4 @@ Software Engineering undergraduate with hands-on experience building software so
 - **[EcoPulse-Analytics](https://github.com/moosarehan/EcoPulse-Analytics)** — Data Engineering / Visualization Project
   - Aggregated 2025 environmental big data across 99 urban air-quality stations into a scalable pipeline, enabling real-time city-wide pollution monitoring and analysis.
   - Applied PCA-based dimensionality reduction and dynamic temporal heatmaps to surface pollution patterns; built extreme hazard predictive models for proactive environmental risk assessment.
-  - Designed an interactive dashboard with population density bubble mapping, providing actionable spatial insights for smart-city urban planning and public health response.
+  - Designed an interactive dashboard with population density bubble mapping, providing actionable spatial insights for smart-city urban planning and public health response
