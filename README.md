@@ -7,9 +7,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=moosarehan&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/moosarehan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moosa-rehan-34993b391/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhmmad_musa/)
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moosarehan4@gmail.com)
 
 </div>
 
@@ -25,12 +22,12 @@
 class MusaRehan:
     university  = "FAST-NUCES, Faisalabad"
     degree      = "BS Software Engineering"
-    cgpa        = 3.06 / 4.00
+
 
     skills      = ["ML/AI", "Data Engineering",
                    "Web Development", "Systems"]
 
-    currently   = "Co-authoring a research paper 📄"
+
     looking_for = "Software Engineering Internship 🚀"
     fun_fact    = "I debugged a published paper. It had bugs."
 ```
@@ -232,24 +229,6 @@ class MusaRehan:
 [![View Repo](https://img.shields.io/badge/GitHub-pong--x86--asm-181717?style=for-the-badge&logo=github)](https://github.com/moosarehan/pong-x86-asm)
 
 </details>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moosarehan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosarehan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moosarehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
-
-</div>
 
 ---
 
