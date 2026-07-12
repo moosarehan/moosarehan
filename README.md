@@ -25,14 +25,14 @@
 class MusaRehan:
     university  = "FAST-NUCES, Faisalabad"
     degree      = "BS Software Engineering"
-    cgpa        = 3.06 / 4.00
 
     skills      = ["ML/AI", "Data Engineering",
                    "Web Development", "Systems"]
 
-    currently   = "Co-authoring a research paper 📄"
-    looking_for = "Software Engineering Internship 🚀"
-    fun_fact    = "I debugged a published paper. It had bugs."
+    web_dev     = ["HTML", "CSS", "JS", "ReactJS",
+                   "Node.js", "Express.js", "MongoDB", "REST API"]
+
+    databases   = ["Firebase", "MongoDB", "MySQL", "SQLite"]
 ```
 
 <br clear="right"/>
