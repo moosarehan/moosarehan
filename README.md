@@ -33,6 +33,7 @@ class MusaRehan:
 
     backend     = ["Node.js", "Express.js", "MongoDB",
                    "REST API", "FastAPI"]
+    ai_frameworks = ["Pandas", "NumPy", "OpenCV"]
 
     databases   = ["Firebase", "MongoDB", "MySQL", "SQLite"]
 ```
