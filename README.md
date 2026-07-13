@@ -29,8 +29,10 @@ class MusaRehan:
     skills      = ["ML/AI", "Data Engineering",
                    "Web Development", "Systems"]
 
-    web_dev     = ["HTML", "CSS", "JS", "ReactJS",
-                   "Node.js", "Express.js", "MongoDB", "REST API"]
+    frontend    = ["HTML", "CSS", "JS", "ReactJS"]
+
+    backend     = ["Node.js", "Express.js", "MongoDB",
+                   "REST API", "FastAPI"]
 
     databases   = ["Firebase", "MongoDB", "MySQL", "SQLite"]
 ```
