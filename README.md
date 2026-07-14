@@ -83,162 +83,87 @@ class MusaRehan:
 
 ## 🚀 Featured Projects
 
-> 💡 **Click any card below to expand the full project details**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🧬 BioPredict — ML Optimization
+*Improving a published research paper, not just replicating it.*
 
----
+Replicated the original paper and found **0% recall on minority classes** due to class imbalance and **no cross-validation**. Fixed it with **SMOTE**, a **Random Forest** classifier, and **stratified k-fold CV** — now co-authoring an improved publication with Dr. Sahar Ajmal at FAST-NUCES.
 
-<details>
-<summary>
-  <picture>
-    <img src="https://img.shields.io/badge/-%F0%9F%A7%AC%20BioPredict--ML--Optimization-1a1b27?style=for-the-badge&logoColor=white" height="32"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research-Publication-8A2BE2?style=flat-square"/>
-  &nbsp;&nbsp;&nbsp;
-  <b>← click to expand</b>
-</summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Research](https://img.shields.io/badge/Research-Publication-8A2BE2?style=flat-square)
 
-<br/>
+[![View Repo](https://img.shields.io/badge/GitHub-BioPredict--ML--Optimization-181717?style=flat-square&logo=github)](https://github.com/moosarehan/BioPredict-ML-Optimization)
 
-> **A Statistical Project Aimed to Improve a Published Research Paper**
+</td>
+<td width="50%" valign="top">
 
-**The Problem:** Replicated the original paper — *Analysis of Categorical Data from Biological Experiments with Logistic Regression and CMH Tests* — and discovered two critical flaws: **0% recall on minority classes** due to severe class imbalance, and **no cross-validation**, risking overfitting.
+### 🚕 NYC Taxi Congestion Toll Analytics
+*A big-data pipeline for Manhattan's congestion toll system.*
 
-**The Fix:**
-- Applied **SMOTE** to balance class distribution
-- Replaced baseline model with **Random Forest** classifier
-- Introduced **stratified k-fold cross-validation** for unbiased evaluation
+Built a **PySpark pipeline** processing **millions of NYC taxi records**, with custom **anomaly filters** for fraud detection and **feature engineering** on weather/time variables. Surfaced through an interactive **Streamlit dashboard** tracking surcharge compliance and revenue leakage.
 
-**The Result:** Measurably improved **recall and F1-score** across all classes. Currently **co-authoring an improved publication** with Dr. Sahar Ajmal at FAST-NUCES.
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big%20Data-Pipeline-0078D4?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/GitHub-BioPredict--ML--Optimization-181717?style=for-the-badge&logo=github)](https://github.com/moosarehan/BioPredict-ML-Optimization)
+[![View Repo](https://img.shields.io/badge/GitHub-nyc--congestion--pricing--audit-181717?style=flat-square&logo=github)](https://github.com/moosarehan/nyc-congestion-pricing-audit)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌆 EcoPulse Analytics
+*A smart-city environmental intelligence engine.*
 
-<details>
-<summary>
-  <picture>
-    <img src="https://img.shields.io/badge/-%F0%9F%9A%95%20NYC%20Taxi%20Congestion%20Toll%20Analytics-1a1b27?style=for-the-badge" height="32"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Big%20Data-Pipeline-0078D4?style=flat-square"/>
-  &nbsp;&nbsp;&nbsp;
-  <b>← click to expand</b>
-</summary>
+Aggregated **2025 environmental data** from **99 air-quality stations** into a scalable pipeline. Uses **PCA-based dimensionality reduction**, **extreme hazard predictive models**, and a Streamlit dashboard with **population-density bubble mapping** for urban planning.
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Smart City](https://img.shields.io/badge/Smart%20City-AI-00C853?style=flat-square)
 
-> **Large-Scale Data Engineering Pipeline for NYC Transport Analysis**
+[![View Repo](https://img.shields.io/badge/GitHub-EcoPulse--Analytics-181717?style=flat-square&logo=github)](https://github.com/moosarehan/EcoPulse-Analytics)
 
-**What it does:** Built a **PySpark big data pipeline** that ingests and processes **millions of NYC taxi records** to analyse Manhattan's congestion toll system.
+</td>
+<td width="50%" valign="top">
 
-**Key Engineering:**
-- 🔍 Custom **anomaly filters** to flag fraudulent trips
-- 🌦️ **Feature engineering** on weather and time-based variables to study demand patterns
-- 📊 Interactive **Streamlit dashboard** mapping driver surcharge compliance, traffic speeds, and revenue leakage
+### 📜 Arabic Prose Management System
+*A Java-based NLP system for Arabic text analysis.*
 
-[![View Repo](https://img.shields.io/badge/GitHub-nyc--congestion--pricing--audit-181717?style=for-the-badge&logo=github)](https://github.com/moosarehan/nyc-congestion-pricing-audit)
+A Java + MySQL application for processing large volumes of Arabic prose, featuring **stemming, lemmatization, and root extraction**, plus **trigram similarity search** for pattern matching across large text corpora.
 
-</details>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Text%20Analysis-9C27B0?style=flat-square)
 
----
+[![View Repo](https://img.shields.io/badge/GitHub-Arabic--Prose--Management--System-181717?style=flat-square&logo=github)](https://github.com/moosarehan/Arabic-Prose-Management-System)
 
-<details>
-<summary>
-  <picture>
-    <img src="https://img.shields.io/badge/-%F0%9F%8C%86%20EcoPulse%20Analytics-1a1b27?style=for-the-badge" height="32"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Smart%20City-AI-00C853?style=flat-square"/>
-  &nbsp;&nbsp;&nbsp;
-  <b>← click to expand</b>
-</summary>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🕹️ Pong x86 NASM Assembly
+*A 2-player Pong game — no libraries, pure registers.*
 
-> **Smart City Environmental Intelligence Engine**
+A fully playable 2-player Pong game written entirely in **x86 NASM Assembly**, running in DOS real mode with **direct video memory rendering** at `0xB800`. Real-time keyboard input via `INT 16h`, ball physics with velocity vectors, and score tracking to 13.
 
-**What it does:** Aggregated **2025 environmental big data** from **99 urban air-quality stations** into a scalable pipeline for real-time city-wide pollution monitoring.
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-NASM-FF6B35?style=flat-square)
+![DOS](https://img.shields.io/badge/DOS-Real%20Mode-808080?style=flat-square)
+![Video Memory](https://img.shields.io/badge/0xB800-Video%20Memory-00BCD4?style=flat-square)
 
-**Key Engineering:**
-- 📉 **PCA-based dimensionality reduction** and dynamic temporal heatmaps
-- ⚠️ **Extreme hazard predictive models** for proactive environmental risk assessment
-- 🗺️ Interactive Streamlit dashboard with **population density bubble mapping** for smart-city urban planning
+[![View Repo](https://img.shields.io/badge/GitHub-pong--x86--asm-181717?style=flat-square&logo=github)](https://github.com/moosarehan/pong-x86-asm)
 
-[![View Repo](https://img.shields.io/badge/GitHub-EcoPulse--Analytics-181717?style=for-the-badge&logo=github)](https://github.com/moosarehan/EcoPulse-Analytics)
+</td>
+<td width="50%" valign="top">
 
-</details>
-
----
-
-<details>
-<summary>
-  <picture>
-    <img src="https://img.shields.io/badge/-%F0%9F%95%8C%20Arabic%20Prose%20Management%20System-1a1b27?style=for-the-badge" height="32"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-Text%20Analysis-9C27B0?style=flat-square"/>
-  &nbsp;&nbsp;&nbsp;
-  <b>← click to expand</b>
-</summary>
-
-<br/>
-
-> **Java-Based NLP System for Arabic Text Analysis**
-
-**What it does:** A Java application integrated with MySQL to manage and process large volumes of Arabic prose with core NLP capabilities.
-
-**Key Engineering:**
-- 🔤 **Stemming, Lemmatization, and Root Extraction** for structured linguistic analysis
-- 🔎 **Trigram Similarity Search** to identify and match linguistic patterns across large datasets
-- 🗃️ MySQL-backed storage for efficient querying over large text corpora
-
-[![View Repo](https://img.shields.io/badge/GitHub-Arabic--Prose--Management--System-181717?style=for-the-badge&logo=github)](https://github.com/moosarehan/Arabic-Prose-Management-System)
-
-</details>
-
----
-
-<details>
-<summary>
-  <picture>
-    <img src="https://img.shields.io/badge/-%F0%9F%95%B9%EF%B8%8F%20Pong%20x86%20NASM%20Assembly-1a1b27?style=for-the-badge" height="32"/>
-  </picture>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/x86%20Assembly-NASM-FF6B35?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DOS-Real%20Mode-gray?style=flat-square"/>
-  <img src="https://img.shields.io/badge/0xB800-Video%20Memory-00BCD4?style=flat-square"/>
-  &nbsp;&nbsp;&nbsp;
-  <b>← click to expand</b>
-</summary>
-
-<br/>
-
-> **2-Player Pong Game in x86 Assembly — No Libraries, Pure Registers**
-
-**What it does:** A fully playable 2-player Pong game written entirely in x86 NASM Assembly, running in DOS real mode, rendering directly to video memory at `0xB800`.
-
-**Key Engineering:**
-- 🖥️ **Direct video memory rendering** — no BIOS print calls, raw character cells at `0xB800`
-- ⌨️ **Real-time keyboard input** via `INT 16h` — WASD for P1, arrow keys for P2
-- ⚽ **Ball physics** with velocity vectors and bitwise sign-flip collision response
-- 🏆 **Score tracking** — first to 13 wins; custom player name input on start
-
-[![View Repo](https://img.shields.io/badge/GitHub-pong--x86--asm-181717?style=for-the-badge&logo=github)](https://github.com/moosarehan/pong-x86-asm)
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
