@@ -194,45 +194,8 @@ Fully playable **2-player Pong game** written entirely in x86 NASM Assembly, run
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moosarehan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosarehan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moosarehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/moosa-rehan-34993b391/">
-  <img src="https://img.shields.io/badge/LinkedIn-Musa%20Rehan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/muhmmad_musa/">
-  <img src="https://img.shields.io/badge/LeetCode-muhmmad__musa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="mailto:moosarehan4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-moosarehan4-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/musa_rehan633/">
-  <img src="https://img.shields.io/badge/Instagram-musa__rehan633-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 <br/><br/>
 
