@@ -23,19 +23,20 @@
 
 ```python
 class MusaRehan:
-    university  = "FAST-NUCES, Faisalabad"
-    degree      = "BS Software Engineering"
+    university    = "FAST-NUCES, Faisalabad"
+    degree        = "BS Software Engineering"
 
-    skills      = ["ML/AI", "Data Engineering",
-                   "Web Development", "Systems"]
-    frontend    = ["HTML", "CSS", "JS", "ReactJS"]
+    skills        = ["ML/AI", "Data Engineering",
+                     "Web Development", "Systems"]
 
-    backend     = ["Node.js", "Express.js", "MongoDB",
-                   "REST API", "FastAPI"]
+    frontend      = ["HTML", "CSS", "JS", "ReactJS"]
 
-    ai_frameworks = ["Pandas", "NumPy", "OpenCV"]
+    backend       = ["Node.js", "Express.js", "MongoDB",
+                     "REST API", "FastAPI"]
 
-    databases   = ["Firebase", "MongoDB", "MySQL", "SQLite"]
+    ai_frameworks = ["Pandas", "NumPy", "OpenCV", "Pydantic"]
+
+    databases     = ["Firebase", "MongoDB", "MySQL", "SQLite"]
 
 ```
 
