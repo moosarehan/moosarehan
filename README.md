@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Musa+Rehan+%F0%9F%91%8B;Software+Engineer+%40+FAST-NUCES;ML+%7C+Data+Engineering+%7C+Web+Dev;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Musa+Rehan+%F0%9F%91%8B;Software+Engineer+%40+FAST-NUCES;ML+%7C+Data+Engineering+%7C+Web+Dev;Building+things+that+matter." alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=moosarehan&label=Profile+Views&color=8A2BE2&style=for-the-badge)](https://github.com/moosarehan)
+[![Profile Views](https://komarev.com/ghpvc/?username=moosarehan&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/moosarehan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moosa-rehan-34993b391/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/muhmmad_musa/)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moosarehan4@gmail.com)
@@ -28,14 +28,15 @@ class MusaRehan:
 
     skills      = ["ML/AI", "Data Engineering",
                    "Web Development", "Systems"]
-
     frontend    = ["HTML", "CSS", "JS", "ReactJS"]
 
     backend     = ["Node.js", "Express.js", "MongoDB",
                    "REST API", "FastAPI"]
+
     ai_frameworks = ["Pandas", "NumPy", "OpenCV"]
 
     databases   = ["Firebase", "MongoDB", "MySQL", "SQLite"]
+
 ```
 
 <br clear="right"/>
@@ -43,6 +44,7 @@ class MusaRehan:
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛡️ Technical Arsenal
 
 <div align="center">
@@ -101,86 +103,96 @@ class MusaRehan:
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💠 BioPredict — ML Optimization
-> *Improving a published research paper, not just replicating it.*
+</div>
 
-Replicated the original paper and found **0% recall on minority classes** due to class imbalance and **no cross-validation**. Fixed it with **SMOTE**, a **Random Forest** classifier, and **stratified k-fold CV** — now co-authoring an improved publication with Dr. Sahar Ajmal at FAST-NUCES.
+---
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-8B5CF6?style=flat-square&logo=scikit-learn&logoColor=white)
-![Research](https://img.shields.io/badge/Research-Publication-A855F7?style=flat-square)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![View Repo](https://img.shields.io/badge/GitHub-BioPredict--ML--Optimization-2E1065?style=flat-square&logo=github)](https://github.com/moosarehan/BioPredict-ML-Optimization)
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding:12px">
+
+### 🧬 [BioPredict — ML Optimization](https://github.com/moosarehan/BioPredict-ML-Optimization)
+
+> *Where published research meets real methodology.*
+
+Identified and fixed **critical flaws in a published paper** — 0% recall on minority classes from severe class imbalance, and zero cross-validation. Applied **SMOTE, Random Forest, and stratified k-fold CV** for measurably better F1-scores. Currently **co-authoring the improved publication** with Dr. Sahar Ajmal.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Research](https://img.shields.io/badge/Research_Paper-8A2BE2?style=for-the-badge)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### 💠 NYC Taxi Congestion Toll Analytics
-> *A big-data pipeline for Manhattan's congestion toll system.*
+### 🚕 [NYC Taxi Congestion Analytics](https://github.com/moosarehan/nyc-congestion-pricing-audit)
 
-Built a **PySpark pipeline** processing **millions of NYC taxi records**, with custom **anomaly filters** for fraud detection and **feature engineering** on weather/time variables. Surfaced through an interactive **Streamlit dashboard** tracking surcharge compliance and revenue leakage.
+> *Millions of records. One pipeline. Real insights.*
 
-![PySpark](https://img.shields.io/badge/PySpark-6D28D9?style=flat-square&logo=apachespark&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-8B5CF6?style=flat-square&logo=streamlit&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big%20Data-Pipeline-A855F7?style=flat-square)
+Built a **PySpark big data pipeline** processing millions of NYC taxi records. Custom **anomaly filters** for fraud detection, weather-based feature engineering, and an interactive **Streamlit dashboard** tracking driver surcharge compliance, traffic speeds, and revenue leakage.
 
-[![View Repo](https://img.shields.io/badge/GitHub-nyc--congestion--pricing--audit-2E1065?style=flat-square&logo=github)](https://github.com/moosarehan/nyc-congestion-pricing-audit)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-0078D4?style=for-the-badge)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### 💠 EcoPulse Analytics
-> *A smart-city environmental intelligence engine.*
+### 🌆 [EcoPulse Analytics](https://github.com/moosarehan/EcoPulse-Analytics)
 
-Aggregated **2025 environmental data** from **99 air-quality stations** into a scalable pipeline. Uses **PCA-based dimensionality reduction**, **extreme hazard predictive models**, and a Streamlit dashboard with **population-density bubble mapping** for urban planning.
+> *99 stations. One dashboard. A smarter city.*
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-8B5CF6?style=flat-square&logo=streamlit&logoColor=white)
-![Smart City](https://img.shields.io/badge/Smart%20City-AI-A855F7?style=flat-square)
+Aggregated **2025 environmental data across 99 urban air-quality stations** into a scalable pipeline. Applied **PCA dimensionality reduction**, temporal heatmaps, and extreme hazard predictive models. Streamlit dashboard with **population density bubble mapping** for smart-city planning.
 
-[![View Repo](https://img.shields.io/badge/GitHub-EcoPulse--Analytics-2E1065?style=flat-square&logo=github)](https://github.com/moosarehan/EcoPulse-Analytics)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-9C27B0?style=for-the-badge)
+![Smart City](https://img.shields.io/badge/Smart_City-00C853?style=for-the-badge)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding:12px">
 
-### 💠 Arabic Prose Management System
-> *A Java-based NLP system for Arabic text analysis.*
+### 🕌 [Arabic Prose Management System](https://github.com/moosarehan/Arabic-Prose-Management-System)
 
-A Java + MySQL application for processing large volumes of Arabic prose, featuring **stemming, lemmatization, and root extraction**, plus **trigram similarity search** for pattern matching across large text corpora.
+> *Ancient language meets modern NLP engineering.*
 
-![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Text%20Analysis-A855F7?style=flat-square)
+Java-based text analysis system integrated with MySQL to manage large volumes of Arabic prose. Built **Stemming, Lemmatization, and Root Extraction** for structured linguistic analysis and **Trigram Similarity Search** to match linguistic patterns across the dataset.
 
-[![View Repo](https://img.shields.io/badge/GitHub-Arabic--Prose--Management--System-2E1065?style=flat-square&logo=github)](https://github.com/moosarehan/Arabic-Prose-Management-System)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge)
+![Text Analysis](https://img.shields.io/badge/Text_Analysis-455A64?style=for-the-badge)
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top" style="padding:12px">
 
-### 💠 Pong x86 NASM Assembly
-> *A 2-player Pong game — no libraries, pure registers.*
+### 🕹️ [Pong — x86 NASM Assembly](https://github.com/moosarehan/pong-x86-asm)
 
-A fully playable 2-player Pong game written entirely in **x86 NASM Assembly**, running in DOS real mode with **direct video memory rendering** at `0xB800`. Real-time keyboard input via `INT 16h`, ball physics with velocity vectors, and score tracking to 13.
+> *No libraries. No shortcuts. Just pure registers and stubbornness.*
 
-![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-6D28D9?style=flat-square)
-![DOS](https://img.shields.io/badge/DOS-Real%20Mode-8B5CF6?style=flat-square)
-![Video Memory](https://img.shields.io/badge/0xB800-Video%20Memory-A855F7?style=flat-square)
+Fully playable **2-player Pong game** written entirely in x86 NASM Assembly, running in DOS real mode. Writes directly to video memory at `0xB800` — no BIOS calls. Features real-time keyboard input via `INT 16h`, bitwise sign-flip ball physics, custom player name input, and score tracking to 13.
 
-[![View Repo](https://img.shields.io/badge/GitHub-pong--x86--asm-2E1065?style=flat-square&logo=github)](https://github.com/moosarehan/pong-x86-asm)
-
-</td>
-<td width="50%" valign="top">
+![x86 NASM](https://img.shields.io/badge/x86_NASM-FF6B35?style=for-the-badge)
+![DOS Real Mode](https://img.shields.io/badge/DOS_Real_Mode-455A64?style=for-the-badge)
+![0xB800](https://img.shields.io/badge/0xB800_Video_Memory-00BCD4?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly_Language-263238?style=for-the-badge)
 
 </td>
 </tr>
 </table>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -188,13 +200,13 @@ A fully playable 2-player Pong game written entirely in **x86 NASM Assembly**, r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moosarehan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moosarehan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosarehan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosarehan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moosarehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moosarehan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
 
 </div>
 
