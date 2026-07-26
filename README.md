@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d011a,50:2d0057,100:0d011a&height=120&section=header" width="100%"/>
-
-<h1 style="color:white;">Musa Rehan — Software Engineer | AI Engineer</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61EF,50:A78BFA,100:5EEAD4&height=200&section=header&text=Musa%20Rehan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B84FFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Musa+Rehan+%F0%9F%91%8B;.NET+Developer+Intern+%40+PrimeHRMS;Software+Engineer+%40+FAST-NUCES;ML+%7C+Data+Engineering+%7C+Web+Dev;Building+things+that+matter." alt="Typing SVG" />
 
@@ -198,4 +196,3 @@ Fully playable **2-player Pong game** written entirely in x86 NASM Assembly, run
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
