@@ -32,7 +32,7 @@ class MusaRehan:
     backend       = ["Node.js", "Express.js", "MongoDB",
                      "REST API", "FastAPI"]
 
-    ai_frameworks = ["Pandas", "NumPy", "OpenCV", "Pydantic"]
+    ai_frameworks = ["Pandas", "NumPy", "OpenCV", "Pydantic","langchain"]
 
     databases     = ["Firebase", "MongoDB", "MySQL", "SQLite"]
 
@@ -81,6 +81,7 @@ class MusaRehan:
 
 ### 🤖 AI / ML
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
