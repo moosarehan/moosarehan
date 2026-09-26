@@ -34,7 +34,7 @@ class MusaRehan:
 
     ai_frameworks = ["Pandas", "NumPy", "OpenCV", "Pydantic","langchain"]
 
-    databases     = ["Firebase", "MongoDB", "MySQL", "SQLite"]
+    databases     = ["Firebase", "MongoDB", "MySQL", "SQLite",ChromaDB,Qdrant]
 
 ```
 
